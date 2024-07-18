@@ -4,6 +4,6 @@
    "zapay_link_old":"https://www.usezapay.com.br/?utm_source=afiliado&utm_medium=App-Consulta-Placa-FIPE&utm_campaign=alwayson",
    "user_config":"7JIdvCeUbWfunHpLUmSpO2f8X7Ryu6LKDd7/HnQAHaIsWT4yC0jj/nlayvO82Qyc",
    "zapay_config":"7Di2Fcox0iA0pVJcTH0P61fg9iVyHH0Gb7h8t4WRte6r9SYkMhT6ojYnbFOjiyw9",
-   "email_zapay":true,
+   "email_zapay":false,
    "api_off": false
 }
